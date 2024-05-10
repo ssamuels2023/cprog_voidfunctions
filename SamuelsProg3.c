@@ -2,10 +2,10 @@
 Sophie Samuels
 Program 3
 Programmer defined functions
+A simple program to convert pounds to kilos and kilos to pounds
 COP2220 2.06.2024
 */
 
-#pragma warning(disable:6031) //ignore scanf warnings
 #include<stdio.h> //for printf and scanf
 #include<math.h> //for floor and ceil
 
